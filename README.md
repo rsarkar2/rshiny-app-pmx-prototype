@@ -14,7 +14,6 @@ The goal of this project is to demonstrate:
 | Monolix / Simulx | R Equivalent |
 |------------------|--------------|
 | Structural model | Closed-form PK equations |
-| Random effects | `random = ~ 1 | id` |
 | Simulx | Monte Carlo simulation in R |
 | VPC | Quantile-based ggplot |
 | AUC | `pracma::trapz()` |
@@ -24,7 +23,7 @@ The goal of this project is to demonstrate:
 - One-compartment oral PK model
 - First-order absorption
 - Log-normal inter-individual variability
-- 
+  
 ## 📂 Input Data
 
 Required columns: id,time,conc,dose
