@@ -1,2 +1,2 @@
-# rshiny-app-pmx-prototype
+# rshiny-app-pmx
 R Shiny app for Pharmacometrics
